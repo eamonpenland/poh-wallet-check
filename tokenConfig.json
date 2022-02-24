@@ -1,0 +1,10 @@
+{
+  "miamicoin-token::miamicoin": {
+    "contractAddress": "SP466FNC0P7JWTNM2R9T199QRZN1MYEDTAR0KP27",
+    "contractName": "miamicoin-core-v1"
+  },
+  "newyorkcitycoin-token::newyorkcitycoin": {
+    "contractAddress": "SP2H8PY27SEZ03MWRKS5XABZYQN17ETGQS3527SA5",
+    "contractName": "newyorkcitycoin-core-v1"
+  }
+}
